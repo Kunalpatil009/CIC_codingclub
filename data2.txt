@@ -1,0 +1,10 @@
+ID	Name	Salary	Country			
+1	Pol	25000	India			
+2	Bont	45000	Belgium			
+3	Loki	55000	Germany			
+4	Nina	35000	India			
+						
+						
+						
+						
+						
